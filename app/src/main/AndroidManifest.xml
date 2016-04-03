@@ -21,6 +21,12 @@
         <activity android:name=".RPSActivity"
             android:label="Rock, Paper and Scissor"
             android:theme="@style/AppTheme"/>
+        <activity android:name=".GTNSettingsActivity"
+            android:label="GTN Settings"
+            android:theme="@style/AppTheme"/>
+        <activity android:name=".GTNActivity"
+            android:label="Guess the Number"
+            android:theme="@style/AppTheme"/>
     </application>
 
 </manifest>
