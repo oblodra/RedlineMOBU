@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".RPSActivity"
-            android:label="RPS"
+            android:label="Rock, Paper and Scissor"
             android:theme="@style/AppTheme"/>
     </application>
 
