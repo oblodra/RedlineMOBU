@@ -58,7 +58,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void onStartGTNClick(View view) {
 
+        Intent gtnSettings = new Intent(this, GTNSettingsActivity.class);
 
+        startActivity(gtnSettings);
+
+        finish();
 
 
     }
